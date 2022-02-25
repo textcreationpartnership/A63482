@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True copy of a petition presented in July 1683 to the most Christian King by deputies from those of his subjects who are of the reformed religion whose churches have been taken from them and demolished, and since that have assembled in the open fields, but after prayer, preaching and receiving of the Holy Sacrement, return'd in all peacable manner to their respective habitations / translated from the French printed copy by a sure hand and re-printed at Edinburgh anno dom. 1683.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63482</idno>
+            <idno type="STC">Wing T2631</idno>
+            <idno type="STC">ESTC R32932</idno>
+            <idno type="EEBO-CITATION">12786498</idno>
+            <idno type="OCLC">ocm 12786498</idno>
+            <idno type="VID">93885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93885)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1537:65)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True copy of a petition presented in July 1683 to the most Christian King by deputies from those of his subjects who are of the reformed religion whose churches have been taken from them and demolished, and since that have assembled in the open fields, but after prayer, preaching and receiving of the Holy Sacrement, return'd in all peacable manner to their respective habitations / translated from the French printed copy by a sure hand and re-printed at Edinburgh anno dom. 1683.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  France.</term>
+               <term>Dissenters, Religious.</term>
+               <term>France --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:93885:1"/>
+            <pb n="1" facs="tcp:93885:1"/>
+            <head>The True Copy of a PETITION Preſented in <hi>July</hi> 1683. To the Moſt Chriſtian King BY DEPUTIES, from thoſe of his <hi>S<g ref="char:V">Ʋ</g>BJECTS</hi> who are of the REFORMED RELIGION, whoſe <hi>CH<g ref="char:V">Ʋ</g>RCHES</hi> have been taken from them, and Demoliſhed. And ſince That, Have Aſſembled in the Open Fields, but after PRAYER, PREACHING, and Receiving of the HOLY SACRA<g ref="char:EOLhyphen"/>MENT, Return'd in all peaceable manner, to their reſpective Habi<g ref="char:EOLhyphen"/>tations.</head>
+            <head>Tranſlated from the <hi>French</hi> Printed Copy by a ſure Hand, and Re-printed at <hi>Edinburgh,</hi>Anno Dom <hi>1683.</hi>
+            </head>
+            <head>TO THE KING.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOUR moſt humble Subjects of the Proteſtant Religion, not hav<g ref="char:EOLhyphen"/>ing power to reſiſt the Motions of their Conſciences, are con<g ref="char:EOLhyphen"/>ſtrained to Aſſemble Together, to call upon the Holy Name of God, and ſing his Praiſes; and by this Religious Acting, to expoſe themſelves to all the Violences and Rigour, which a too fierce zeal can infuſe into the Breaſts of your Officers. And becauſe God hath eſtabliſhed your Majeſty for their Monarch, they are obliged to juſtifie their Proceed<g ref="char:EOLhyphen"/>ings and Behaviour before your Majeſty, with all the Humility they are capable of.</p>
+            <pb n="2" facs="tcp:93885:2"/>
+            <p>Theſe Aſſemblies, SIR, do no way hurt or wound that Fidelity which your Petitioners owe your Majeſty; They are all accorded to ſacrifice their Fortunes and their Lives for your Service. The very ſame Religion which conſtrains them to Aſſemble together to cele<g ref="char:EOLhyphen"/>brate the Glory of God, teaches them that they can never diſpenſe under any Pretence whatever, with that Allegiance which is due to your Majeſty. Nor has your Majeſty any need to publiſh your Decla<g ref="char:EOLhyphen"/>rations to enforce them to embrace a Maxim ſo certain, and ſo well grounded upon Chriſtianity. It remains then, SIR, that your Peti<g ref="char:EOLhyphen"/>tioners inſiſt upon nothing, but what is only due to God, for as to what concerns your Majeſty, their paſt behaviour gives teſtimony of the reality and purity of their Intentions, and may ſerve as a Security to your Majeſty for the future; and, in a word, your Petitioners are all ready with their Blood to ſign the Oath of their Allegiance. As to what concerns their Duty towards God, your Majeſty hath ſo much Piety to take it not amiſs, that they render to that great God that Wor<g ref="char:EOLhyphen"/>ſhip and Adoration which they owe him, they alſo preſume to hope, that your Majeſty will have the goodneſs to reflect upon their Behaviour; that you will compaſſionate the Deſolations to which their Piety expoſes them; and that perhaps you will extend your Indignation againſt thoſe who have by ſurprize obtained ſo many ſevere Decrees and Declarations againſt them, and yet would further provoke your Wrath againſt Subjects ſo faithful, and ſo innocent.</p>
+            <p>Your Supplicants, SIR, are perſwaded that God has not ſent them into this World, but to glorifie him; and they will rather chooſe to loſe their Lives a thouſand times, than fail of their Duty ſo Holy and Indiſpen<g ref="char:EOLhyphen"/>ſible.</p>
+            <p>It is in your Majeſties power to deprive them of all the Advantages of this World, and alſo to doom to utter Deſtruction: They are ready for to ſacrifice all, to ſuffer all Miſeries at your Majeſties pleaſure. <hi>But it May be,</hi> when your Majeſty ſhall conſider, That your Petitioners do not give way to the <hi>Moſt</hi> Faithful of all your Subjects <hi>[which all the world confeſſes]</hi> in their Duties to God, your Majeſty will not do that Inju<g ref="char:EOLhyphen"/>ry to his Glory and to his Goodneſs, as to deſtroy a People, for no other reaſon meriting your Indignation.</p>
+            <p>The Miſeries of your Petitioners, SIR, only ariſe from the Reve<g ref="char:EOLhyphen"/>rence they have for the <hi>Divinity,</hi> whole <hi>Word</hi> they look upon as the on<g ref="char:EOLhyphen"/>ly Rule of their Religious Worſhip.</p>
+            <p>Were the Diſpute alone concerning our oppoſing Men for the ſer<g ref="char:EOLhyphen"/>vice of your Majeſty, though all the World ſhould rebel againſt your Majeſties Will, though all your other Subjects ſhould fail of their Fi<g ref="char:EOLhyphen"/>delity and Obedience, your Petitioners would inviolably ſtand by their Auguſt Monarch, and with pleaſure ſpend the laſt drop of Blood in his Service.</p>
+            <p>But their Unhappineſs is ſo great, that the Declarations put forth againſt them, to the prejudice of ſo many Edicts and Decrees made by your Majeſty, and the Kings your Predeceſſors, appear to them incom<g ref="char:EOLhyphen"/>patible with the Commands of the great Creator of Heaven and Earth.</p>
+            <pb n="3" facs="tcp:93885:2" rendition="simple:additions"/>
+            <p>For God hath ordained them to inſtruct their Children and their Families, and to declare unto them the Word of Life. He alſo pro<g ref="char:EOLhyphen"/>nounces his dreadful Anathema's againſt them who ſhut the Gates of Heaven againſt thoſe, to whom he freely opens them. He commands them to offer to him Hymns and ſpiritual Songs. Nevertheleſs, SIR, thoſe Declarations that have been ſurreptitiouſly obtained againſt us, forbid us to ſing the Pſalms of <hi>David,</hi> which do contain the Praiſes of God.</p>
+            <p>In ſhort, SIR, It is the pleaſure of God that we ſhould Aſſemble to<g ref="char:EOLhyphen"/>gether in his Name, to render him the ſolemn Adoration and Honour which is due to him. Nevertheleſs, SIR, thoſe Declarations which your Petitioners Enemies have obtained againſt us by repeated Surpri<g ref="char:EOLhyphen"/>zes, forbid them to aſſemble together, to render to that great God the ſervice which is due to him.</p>
+            <p>During this Inability of your Petitioners, to reconcile the Will of God to what is exacted from them, they find themſelves conſtrained by their Conſciences, to expoſe themſelves to all ſorts of Calamities, for the continuance of giving Glory to the Majeſty of God, who will be ſerved according to his Word.</p>
+            <p>If the Doctrine of your Petitioners were Abominable, if their Wor<g ref="char:EOLhyphen"/>ſhip were Scandalous, if they preferred the Creature in the place of the Creator, there might be ſome Reaſon to ſollicit your Majeſty to refuſe their Protection: But all their Crime, and all the Difference between theirs, and the Catholick Religion, conſiſts in this:</p>
+            <p>That they prefer the Word of God, before the Traditions of Men: And the true Worſhip of that great God, <hi>[who proteſts to be jealous of his honour, and that he will not yield it to any other]</hi> before the Religious Worſhip of the Creature.</p>
+            <p>All Religion, SIR, to ſpeak properly, conſiſts only in Belief, in Pray<g ref="char:EOLhyphen"/>ers, and in Works: And your Petitioners believe, and hold the Creed of the Holy Apoſtles; and the Lords Prayer, to be the Model of thoſe which they preſent to God, and the Commandments of that God are the Rule and Guidance of their Conduct and Converſation. They know' and have no need, according to <hi>St. Paul,</hi> of knowing any other but <hi>only Jeſus Chriſt,</hi> and <hi>him Crucified.</hi> They acknowledge God for the only true God, and for him who ſent Jeſus Chriſt; for on this Belief it is that our Lord hath founded Life Eternal.</p>
+            <p>Their Enemies make ſtrange Interpretations of their Opinions, and their Worſhip. However, SIR, your Petitioners implore the mercy of God. They truſt in the incomprehenſible Charity, and infinite Me<g ref="char:EOLhyphen"/>rits of their adorable Saviour, whom they do imbrace with a con<g ref="char:EOLhyphen"/>ſtant and lively Faith. They have recourſe, with all humility, to the healthful ſuccour and grace of his holy Spirit; and to this Trinity it is, that they render their Adoration and Homage, invoking it after the ſame Form that the Scripture hath preſcribed in his Word. They medi<g ref="char:EOLhyphen"/>tate upon his Wonders. They ſing his Praiſes: And they make it their continual ſtudy to live Holily among themſelves, Juſtly toward their Neighbour, Obediently toward your Majeſty, and Religiouſly toward God.</p>
+            <pb n="4" facs="tcp:93885:3"/>
+            <p>They therefore ſupplicate your Majeſty to be the Judge, Whether your Petitioners are unworthy of your Paternal Goodneſse, and the Ho<g ref="char:EOLhyphen"/>nour of your Protection. Whether they merit to be thrown into that extremity of Deſtruction wherein they are at preſent over-whelm'd, ſufficient enough to move the Groans of the moſt inſenſible. And laſtly, SIR, Whether it be poſſible that they ſhould live without continuing to aſſemble together, to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ender to God the ſervice which they owe him.</p>
+            <p>After all this, your Petitioners cannot but pray to the great God, who advances your Throne above all the Thrones of the Earth, to incline your Majeſties heart toward your Subjects, whoſe Innocency and Alle<g ref="char:EOLhyphen"/>geance is apparent to the eyes of the whole world. And if thoſe your poor People ſhall not yet be able to move the Compaſſion of their Au<g ref="char:EOLhyphen"/>guſt Monarch, for whom they ſhall always retain a ſincere Love, and aw<g ref="char:EOLhyphen"/>ful Reverence, a ſingular Veneration, and inviolable Fidelity. They do proteſt before the face of that great God for whoſe ſake they are expoſ<g ref="char:EOLhyphen"/>ed to ſo much Miſery, That they will render him Honour and Glory in the midſt of their moſt terrible Calamities.</p>
+            <p>But, SIR, your Petitioners hope much better things from the Natural E<g ref="char:EOLhyphen"/>quity, Goodneſs, and Piety of your Majeſty; for which Reaſon, they proſtrate themſelves at your Royal Feet, and moſt humbly implore your Majeſty.</p>
+            <p>To recall all the Declarations, Decrees, and other Judgements, which have reduc'd them to that Deplorable Condition wherein they are, and deprive them not of the Liberty of their Conſciences, and exerciſe of their Religion, by vertue of ſo many ſolemn Edicts, confirmed by ſo many Declarations granted them by your Majeſty, without which it is impoſſible for them to live.</p>
+            <p>
+               <hi>[And your Petitioner ſhall continue to pray for the Preſervation of Your Majeſty's Sacred Perſon, your Royal Family, and the Honour and Proſperity of your Kingdom.]</hi>
+            </p>
+            <pb facs="tcp:93885:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
